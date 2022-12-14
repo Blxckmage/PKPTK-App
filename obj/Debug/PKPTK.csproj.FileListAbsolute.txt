@@ -1,0 +1,17 @@
+C:\Users\Thaumaturge\Workspace\C#\PKTPK\PKPTK\bin\Debug\PKPTK.exe.config
+C:\Users\Thaumaturge\Workspace\C#\PKTPK\PKPTK\bin\Debug\PKPTK.exe
+C:\Users\Thaumaturge\Workspace\C#\PKTPK\PKPTK\bin\Debug\PKPTK.pdb
+C:\Users\Thaumaturge\Workspace\C#\PKTPK\PKPTK\obj\Debug\PKPTK.csproj.AssemblyReference.cache
+C:\Users\Thaumaturge\Workspace\C#\PKTPK\PKPTK\obj\Debug\PKPTK.csproj.SuggestedBindingRedirects.cache
+C:\Users\Thaumaturge\Workspace\C#\PKTPK\PKPTK\obj\Debug\PKPTK.Form1.resources
+C:\Users\Thaumaturge\Workspace\C#\PKTPK\PKPTK\obj\Debug\PKPTK.Properties.Resources.resources
+C:\Users\Thaumaturge\Workspace\C#\PKTPK\PKPTK\obj\Debug\PKPTK.csproj.GenerateResource.cache
+C:\Users\Thaumaturge\Workspace\C#\PKTPK\PKPTK\obj\Debug\PKPTK.csproj.CoreCompileInputs.cache
+C:\Users\Thaumaturge\Workspace\C#\PKTPK\PKPTK\obj\Debug\PKPTK.exe
+C:\Users\Thaumaturge\Workspace\C#\PKTPK\PKPTK\obj\Debug\PKPTK.pdb
+C:\Users\Thaumaturge\Workspace\C#\PKTPK\PKPTK\obj\Debug\PKPTK.csproj.CopyComplete
+C:\Users\Thaumaturge\Workspace\C#\PKTPK\PKPTK\obj\Debug\PKPTK.Forms.addData.resources
+C:\Users\Thaumaturge\Workspace\C#\PKTPK\PKPTK\obj\Debug\PKPTK.Forms.Dashboard.resources
+C:\Users\Thaumaturge\Workspace\C#\PKTPK\PKPTK\obj\Debug\PKPTK.Forms.printData.resources
+C:\Users\Thaumaturge\Workspace\C#\PKTPK\PKPTK\obj\Debug\PKPTK.Forms.updateData.resources
+C:\Users\Thaumaturge\Workspace\C#\PKTPK\PKPTK\obj\Debug\PKPTK.Forms.removeData.resources
